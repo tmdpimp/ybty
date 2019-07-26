@@ -1,7 +1,7 @@
 baseURL = "https://tmdpimp.github.io/ybty/"
 languageCode = "zh-CN"
 title = "亚博体育"
-theme = "tale"
+theme = "default"
 publishDir = "docs"
 
 [permalinks]
