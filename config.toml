@@ -1,8 +1,9 @@
-baseURL = "https://tmdpimp.github.io/ybty/"
+baseURL = "http://example.org/"
 languageCode = "zh-CN"
 title = "亚博体育"
 theme = "default"
 publishDir = "docs"
+disableHugoGeneratorInject = true
 
 [permalinks]
   posts = "/:filename/"

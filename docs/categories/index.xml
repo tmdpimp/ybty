@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 亚博体育</title>
-    <link>https://tmdpimp.github.io/ybty/categories/</link>
+    <link>http://example.org/categories/</link>
     <description>Recent content in Categories on 亚博体育</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     
-	<atom:link href="https://tmdpimp.github.io/ybty/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
