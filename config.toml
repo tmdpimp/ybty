@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://example.org/"
 languageCode = "zh-CN"
 title = "亚博体育"
 theme = "default"
