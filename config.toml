@@ -1,6 +1,6 @@
 baseURL = "https://www.tuifeng.com/"
 languageCode = "zh-CN"
-title = "亚博体育"
+title = "亚博和体育"
 theme = "default"
 publishDir = "docs"
 disableHugoGeneratorInject = true
@@ -9,4 +9,4 @@ disableHugoGeneratorInject = true
   posts = "/:filename/"
 
 [params]
-  description = "亚博体育APP，覆盖全球体育赛事。亚洲最大的在体育娱乐公司，提供全套体育娱乐产品的一站式服务网站。"
+  description = "亚博和体育APP，覆盖全球体育赛事。亚洲最大的在体育娱乐公司，提供全套体育娱乐产品的一站式服务网站。"
